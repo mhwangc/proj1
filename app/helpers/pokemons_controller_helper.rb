@@ -1,0 +1,2 @@
+module PokemonsControllerHelper
+end
